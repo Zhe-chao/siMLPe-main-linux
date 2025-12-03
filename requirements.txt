@@ -1,0 +1,9 @@
+numpy
+scipy
+torch
+einops
+easydict
+six
+tqdm
+tensorboard
+opencv-python
